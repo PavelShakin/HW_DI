@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DI</string>
+
+    <string name="txtSave">Save</string>
+    <string name="txtUsername">Username</string>
+    <string name="txtHobby">Hobby</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtStatus">Status</string>
+    <string name="txtOnline">Online</string>
+</resources>
